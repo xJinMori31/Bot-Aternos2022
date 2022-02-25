@@ -15,3 +15,5 @@ https://discord.gg/MJdsth29Rm
 
 
 Para poder usar el uptimer, debes verificarte en el canal de verificación, enviando una captura de que estás suscrito al canal!
+
+Actualizado 2022 25/2
