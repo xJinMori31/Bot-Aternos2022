@@ -10,10 +10,10 @@ Nuestro discord!
 
 <img src="https://discordapp.com/api/guilds/835595324235317288/widget.png?style=banner3" alt="Discord Banner 3"/>
 
-https://discord.gg/MJdsth29Rm
+https://discord.gg/kxBVRrDdky
 
 
 
 Para poder usar el uptimer, debes verificarte en el canal de verificación, enviando una captura de que estás suscrito al canal!
 
-Actualizado 2022 25/2
+Actualizado 2022 8/4
