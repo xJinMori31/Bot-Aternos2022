@@ -15,13 +15,13 @@ setInterval(() => {
 
 function createBot () {
 const bot = mineflayer.createBot({
-  host: 'IP', //ACA VA LA IP DE TU SERVIDOR  // SERVER IP
-  username: 'BOT', // ACA VA EL NOMBRE DEL BOT  // BOT NAME
-  port: 25565, // PUERTO DEL SERVIDOR // SERVER PORT
+  host: 'practice_bridges.aternos.me', //ACA VA LA IP DE TU SERVIDOR  // SERVER IP
+  username: 'Hasvik', // ACA VA EL NOMBRE DEL BOT  // BOT NAME
+  port: 16394, // PUERTO DEL SERVIDOR // SERVER PORT
 })
 
 bot.on('spawn', () => {
-  bot.chat('/register contraseña')  
+  bot.chat('/register 1234')  
 });
 
 bot.on("move", function() {
